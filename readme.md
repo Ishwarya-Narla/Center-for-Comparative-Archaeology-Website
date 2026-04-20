@@ -137,8 +137,3 @@ Ensure the following dependencies are installed in a virtual environment:
 - Automated backups of the MySQL database using tools like **mysqldump**.
 - Disaster recovery plan for minimal data loss and downtime.
 
-## Contributors
-- **Aishwarya Bhargava**
-- **Anusha Shivakumar**
-- **Bhavana Devulapally**
-- **Shusrita Venugopal**
